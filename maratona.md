@@ -15,3 +15,5 @@ Esta é a minha seleção de filmes essenciais.
 - [ ] O Labirinto do Fauno
 - [ ] Caça fantasmas
 - [ ] Percy Jackson
+- [ ]Dungeons and Dragons
+- [ ]Harry Potter
